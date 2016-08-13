@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">The Kinematics Calculator</string>
+<string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="titleName">Choose   One</string>
+    <string name="splash_title"></string>
+    <string name="button1_title">D,Vi,Vf</string>
+    <string name="button2_title">D,Vi,T</string>
+    <string name="button3_title">D,Vi,A</string>
+    <string name="button4_title">D,Vf,T</string>
+    <string name="button5_title">D,Vf,A</string>
+    <string name="button6_title">D,T,A</string>
+    <string name="button7_title">Vi,Vf,T</string>
+    <string name="displacement">Displacement(m) :</string>
+    <string name="Displacement">Displacement =</string>
+    <string name ="initialv">Initial Velocity(m/s) :</string>
+    <string name ="Initalv">Initial Velocity =</string>
+    <string name="finalv">Final Velocity(m/s) :</string>
+    <string name = "Finalv">Final Velocity =</string>
+    <string name ="time">Time(s)</string>
+    <string name = "Time">Time =</string>
+    <string name="EnterValues">Enter Values</string>
+    <string name="calculate">calculate</string>
+    <string name = "Acceleration">Acceleration =</string>
+    <string name = "acceleration">Acceleration(m/s/s) :</string>
+</resources>

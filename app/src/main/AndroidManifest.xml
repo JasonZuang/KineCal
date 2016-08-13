@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.jason_000.kinecal" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/splash_title"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".Splash"
+             >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".mainMenu"
+                  android:label="@string/app_name"  />
+        <activity android:name=".dvivf"
+                  android:label ="@string/app_name"/>
+        <activity android:name=".dvit"
+                  android:label ="@string/app_name"/>
+        <activity android:name=".dvia"
+                  android:label ="@string/app_name"/>
+        <activity android:name=".dvft"
+            android:label ="@string/app_name"/>
+        <activity android:name=".dvfa"
+            android:label ="@string/app_name"/>
+        <activity android:name=".dta"
+            android:label ="@string/app_name"/>
+    </application>
+
+</manifest>
